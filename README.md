@@ -1,7 +1,8 @@
 
+
 <!-- ==================== BANNER PRINCIPAL ANIMADO ==================== -->
 <div align="center">
-<img width="1401" height="580" alt="bannerGigHub" src="https://github.com/user-attachments/assets/535b2994-3453-46d5-9c65-6f276da92762" />
+<img width="1400" height="503" alt="bannerGigHub" src="https://github.com/user-attachments/assets/051fb60a-a27a-4abb-9aac-53742385c532" />
 
 </div>
 
