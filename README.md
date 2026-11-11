@@ -104,7 +104,11 @@
       </p>
       <p align="center">
         <a href="https://github.com/QuerenciaWeb/super-duper-frontend.git">
-          <img src="https://img.shields.io/badge/Codigo%20Backend-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+          <img src="https://img.shields.io/badge/Codigo Frontend-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+        </a>
+        <a href="https://github.com/QuerenciaWeb/super-duper-backend.git">
+          <img src="https://img.shields.io/badge/Codigo Frontend-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+          
         </a>
         <a href="https://tu-demo.com">
           <img src="https://img.shields.io/badge/Ver_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo" />
