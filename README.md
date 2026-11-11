@@ -15,14 +15,11 @@
   <a href="https://linkedin.com/in/Carlos castro" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://tupaginaweb.com" target="_blank">
+  <a href="https://hackcodebit.github.io/MiPagina/#proyectos" target="_blank">
     <img src="https://img.shields.io/badge/Portafolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portafolio" />
   </a>
   <a href="mailto:carlos.lamilla@correounivalle.edu.co">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://twitter.com/TU_USUARIO" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Visitas%20al%20perfil&color=0e75b6&style=for-the-badge" alt="Visitas" />
 </div>
