@@ -95,15 +95,15 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🛒 E-Commerce Full Stack</h3>
+      <h3 align="center">🛒Gestor Administrativo (La Querencia)</h3>
       <p align="center">
-        Plataforma de comercio electrónico con pasarela de pagos, carrito en tiempo real y panel de administración.
+        Plataforma de comercio electrónico con pasarela de pagos y panel de administración.
       </p>
       <p align="center">
         <code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>Stripe</code>
       </p>
       <p align="center">
-        <a href="https://github.com/TU_USUARIO/proyecto-1">
+        <a href="https://github.com/QuerenciaWeb/super-duper-frontend.git">
           <img src="https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
         </a>
         <a href="https://tu-demo.com">
