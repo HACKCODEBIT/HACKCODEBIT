@@ -15,7 +15,7 @@
   <a href="https://linkedin.com/in/Carlos castro" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://hackcodebit.github.io/MiPagina/#proyectos" target="_blank">
+  <a href="https://hackcodebit.github.io/MiPagina" target="_blank">
     <img src="https://img.shields.io/badge/Portafolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portafolio" />
   </a>
   <a href="mailto:carlos.lamilla@correounivalle.edu.co">
