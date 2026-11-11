@@ -1,6 +1,6 @@
 <!-- ==================== BANNER PRINCIPAL ANIMADO ==================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=¡Hola!%20Soy%20Tu%20Nombre&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Desarrollador&descAlignY=58&descSize=18" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=¡Hola!%20Soy%20Carlos%20Castro&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Desarrollador%20de%20software&descAlignY=58&descSize=18" width="100%" alt="Header Banner" />
 </div>
 
 <!-- ==================== EFECTO MÁQUINA DE ESCRIBIR ==================== -->
