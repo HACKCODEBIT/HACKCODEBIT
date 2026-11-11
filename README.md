@@ -1,7 +1,8 @@
 
 <!-- ==================== BANNER PRINCIPAL ANIMADO ==================== -->
 <div align="center">
-<img width="1401" height="580" alt="bannerGigHub" src="https://github.com/user-attachments/assets/be122766-0a47-4e3f-b23b-6431232a7e4f" />
+<img width="1401" height="580" alt="bannerGigHub" src="https://github.com/user-attachments/assets/535b2994-3453-46d5-9c65-6f276da92762" />
+
 </div>
 
 <!-- ==================== EFECTO MÁQUINA DE ESCRIBIR ==================== -->
