@@ -1,6 +1,7 @@
+
 <!-- ==================== BANNER PRINCIPAL ANIMADO ==================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=¡Hola!%20Soy%20Carlos%20Castro&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Desarrollador%20de%20software&descAlignY=58&descSize=18" width="100%" alt="Header Banner" />
+<img width="1472" height="832" alt="bannerGigHub" src="https://github.com/user-attachments/assets/345f8128-7b80-4cb0-83ae-b286afb007b2" />
 </div>
 
 <!-- ==================== EFECTO MÁQUINA DE ESCRIBIR ==================== -->
